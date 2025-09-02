@@ -299,7 +299,7 @@ const ContactContent = () => {
                                 <h3 className="text-xl font-medium mb-3">Visit Us</h3>
                                 <p className="text-gray-600 mb-4">Our main office location</p>
                                 <address className="text-lg font-medium not-italic">
-                                    mahalaxmi real estate , near to pheonix mall lower parel
+                                    mahalaxmi industrial estate , near to pheonix mall lower parel
                                 </address>
                             </div>
                         </AnimatedSection>
