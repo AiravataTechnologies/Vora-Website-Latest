@@ -271,7 +271,7 @@ const ContactContent = () => {
                                 <h3 className="text-xl font-medium mb-3">Call Us</h3>
                                 <p className="text-gray-600 mb-4">Available 24/7 for emergencies</p>
                                 <a href="tel:+1234567890" className="text-lg font-medium hover:text-yellow-500 transition-colors duration-300">
-                                    +1 (234) 567-890
+                                    +91 98201 29358
                                 </a>
                             </div>
                         </AnimatedSection>
@@ -285,7 +285,7 @@ const ContactContent = () => {
                                 <h3 className="text-xl font-medium mb-3">Email Us</h3>
                                 <p className="text-gray-600 mb-4">We'll respond within 24 hours</p>
                                 <a href="mailto:info@voraelectrical.com" className="text-lg font-medium hover:text-yellow-500 transition-colors duration-300">
-                                    info@voraelectrical.com
+                                    Ashit@ves.co.in
                                 </a>
                             </div>
                         </AnimatedSection>
@@ -299,8 +299,7 @@ const ContactContent = () => {
                                 <h3 className="text-xl font-medium mb-3">Visit Us</h3>
                                 <p className="text-gray-600 mb-4">Our main office location</p>
                                 <address className="text-lg font-medium not-italic">
-                                    123 Electric Ave, Suite 100<br />
-                                    Cityville, ST 12345
+                                    mahalaxmi real estate , near to pheonix mall lower parel
                                 </address>
                             </div>
                         </AnimatedSection>
