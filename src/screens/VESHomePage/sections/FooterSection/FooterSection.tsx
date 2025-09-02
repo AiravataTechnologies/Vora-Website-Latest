@@ -16,15 +16,15 @@ export const FooterSection = (): JSX.Element => {
   const contactInfo = [
     {
       icon: <Phone className="w-4 h-4" />,
-      text: "(+91) 8912 3456 7890",
+      text: "+91 98201 29358",
     },
     {
       icon: <Mail className="w-4 h-4" />,
-      text: "hello@consultix.com",
+      text: "Ashit@ves.co.in",
     },
     {
       icon: <MapPin className="w-4 h-4" />,
-      text: "123 Business Avenue, Suite",
+      text: "mahalaxmi real estate , near to pheonix mall lower parel",
     },
   ];
 
