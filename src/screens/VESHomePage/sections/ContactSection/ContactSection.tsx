@@ -59,12 +59,12 @@ export const ContactSection = () => {
   const contactInfo = [
     {
       title: "Call Us",
-      value: "(+91) 8912 3456 7890",
+      value: "+91 98201 29358",
       icon: Phone,
     },
     {
       title: "Email Us",
-      value: "hello@elektrix.com",
+      value: "connect@malaydamania.com",
       icon: Mail,
     },
   ];
