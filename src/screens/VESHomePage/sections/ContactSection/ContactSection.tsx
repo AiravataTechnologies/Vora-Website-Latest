@@ -64,7 +64,7 @@ export const ContactSection = () => {
     },
     {
       title: "Email Us",
-      value: "connect@malaydamania.com",
+      value: "Ashit@ves.co.in",
       icon: Mail,
     },
   ];
